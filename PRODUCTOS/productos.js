@@ -5,7 +5,7 @@
 const productos = {
 
     1: {
-        titulo: "BIG PILOTO - de 4 in",
+        titulo: "BIG PILOTO",
         imagenes: [
             "imagenesp/bigpilotos.png"
         ]
@@ -13,7 +13,7 @@ const productos = {
 
 
     2: {
-        titulo: "BASE DE BIG PILOTO - de 4 in",
+        titulo: "BASE DE BIG PILOTO",
         imagenes: [
             "imagenesp/basebig.png"
         ]
@@ -53,7 +53,7 @@ const productos = {
 
 
     7: {
-        titulo: "PINES DE EXPANSION - de 4 in",
+        titulo: "PINES DE EXPANSION",
         imagenes: [
             "imagenesp/Pexpansion.png"
         ]
@@ -61,7 +61,7 @@ const productos = {
 
 
     8: {
-        titulo: "PICAS REVESTIDA OVERLAY - de 4 in",
+        titulo: "PICAS REVESTIDA OVERLAY",
         imagenes: [
             "imagenesp/picas.png"
         ]
@@ -69,7 +69,7 @@ const productos = {
 
 
     9: {
-        titulo: "TACOS INTERCAMBIABLES - de 4 in",
+        titulo: "TACOS INTERCAMBIABLES",
         imagenes: [
             "imagenesp/tacosint.png"
         ]
@@ -77,7 +77,7 @@ const productos = {
 
 
     10: {
-        titulo: "PORTA PICAS - de 4 in",
+        titulo: "PORTA PICAS",
         imagenes: [
             "imagenesp/portapicas.png"
         ]
@@ -85,7 +85,7 @@ const productos = {
 
 
     11: {
-        titulo: "BASE DE TACOS INTERCAMBIABLES - de 4 in",
+        titulo: "BASE DE TACOS INTERCAMBIABLES",
         imagenes: [
             "imagenesp/basetacos.png"
         ]
@@ -93,7 +93,7 @@ const productos = {
 
 
     12: {
-        titulo: "ROLET BIG - de 4 in",
+        titulo: "ROLET BIG",
         imagenes: [
             "imagenesp/roletbig.png"
         ]
@@ -101,7 +101,7 @@ const productos = {
 
 
     13: {
-        titulo: "CAJA KELLY BOX - de 4 in",
+        titulo: "CAJA KELLY BOX",
         imagenes: [
             "imagenesp/cajakelly.png"
         ]
@@ -109,7 +109,7 @@ const productos = {
 
 
     14: {
-        titulo: "SACA PICAS - de 4 in",
+        titulo: "SACA PICAS",
         imagenes: [
             "imagenesp/sacapicas.png"
         ]
@@ -117,38 +117,38 @@ const productos = {
 
 
     15: {
-        titulo: "ACOPLAMIENTO RAPIDO - de 4 in",
+        titulo: "ACOPLAMIENTO RAPIDO",
         imagenes: [
             "imagenesp/acoprap.png"
         ]
     },
     16: {
-        titulo: "PORTA PICAS (TEETH HOLDER) - de 4 in",
+        titulo: "PORTA PICAS (TEETH HOLDER)",
         imagenes: [
             "imagenesp/tholder.png"
         ]
     },
 
      17: {
-        titulo: "CABEZALES DE TUBO TREMIE - de 4 in",
+        titulo: "CABEZALES DE TUBO TREMIE",
         imagenes: [
             "imagenesp/tremie.png"
         ]
     },
     18: {
-        titulo: "BROCA DE DIENTES PLANOS - de 4 in",
+        titulo: "BROCA DE DIENTES PLANOS",
         imagenes: [
             "imagenesp/brocad.png"
         ]
     },
         19: {
-        titulo: "VALVULA MARIPOSA - de 4 in",
+        titulo: "VALVULA MARIPOSA",
         imagenes: [
             "imagenesp/genebre.png"
         ]
     },
     20: {
-        titulo: "BRIDA SLIP ON 150 LBS RF A/C - de 4 in",
+        titulo: "BRIDA SLIP ON 150 LBS RF A/C",
         imagenes: [
             "imagenesp/brida.png"
         ]
