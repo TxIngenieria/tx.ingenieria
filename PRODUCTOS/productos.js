@@ -117,7 +117,7 @@ const productos = {
 
 
     15: {
-        titulo: "ACOPLAMIENTO RAPIDO",
+        titulo: "ACOPLAMIENTO RAPIDO - de 4 in",
         imagenes: [
             "imagenesp/acoprap.png"
         ]
@@ -142,13 +142,13 @@ const productos = {
         ]
     },
         19: {
-        titulo: "VALVULA MARIPOSA",
+        titulo: "VALVULA MARIPOSA - de 4 in",
         imagenes: [
             "imagenesp/genebre.png"
         ]
     },
     20: {
-        titulo: "BRIDA SLIP ON 150 LBS RF A/C",
+        titulo: "BRIDA SLIP ON 150 LBS RF A/C - de 4 in",
         imagenes: [
             "imagenesp/brida.png"
         ]
