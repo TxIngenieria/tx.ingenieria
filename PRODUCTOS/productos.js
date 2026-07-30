@@ -142,7 +142,7 @@ const productos = {
         ]
     },
         19: {
-        titulo: "VALVULA MARIPOSA - GENEBRE",
+        titulo: "VALVULA MARIPOSA",
         imagenes: [
             "imagenesp/genebre.png"
         ]
