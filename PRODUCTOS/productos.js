@@ -141,6 +141,12 @@ const productos = {
             "imagenesp/brocad.png"
         ]
     },
+        19: {
+        titulo: "VALVULA MARIPOSA - GENEBRE",
+        imagenes: [
+            "imagenesp/genebre.png"
+        ]
+    },
 
 
 
