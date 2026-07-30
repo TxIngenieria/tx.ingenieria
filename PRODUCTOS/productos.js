@@ -5,7 +5,7 @@
 const productos = {
 
     1: {
-        titulo: "BIG PILOTO - de 4°",
+        titulo: "BIG PILOTO - de 4 pulg",
         imagenes: [
             "imagenesp/bigpilotos.png"
         ]
@@ -13,7 +13,7 @@ const productos = {
 
 
     2: {
-        titulo: "BASE DE BIG PILOTO - de 4°",
+        titulo: "BASE DE BIG PILOTO - de 4 pulg",
         imagenes: [
             "imagenesp/basebig.png"
         ]
@@ -21,7 +21,7 @@ const productos = {
 
 
     3: {
-        titulo: "ACOPLE CODO DE 90° TIPO BAUER - de 4°",
+        titulo: "ACOPLE CODO DE 90° TIPO BAUER - de 4 pulg",
         imagenes: [
             "imagenesp/codo90.png"
         ]
@@ -29,7 +29,7 @@ const productos = {
 
 
     4: {
-        titulo: "ACOPLE CODO DE 45° TIPO BAUER - de 4°",
+        titulo: "ACOPLE CODO DE 45° TIPO BAUER - de 4 pulg",
         imagenes: [
             "imagenesp/codo45.png"
         ]
@@ -37,7 +37,7 @@ const productos = {
 
 
     5: {
-        titulo: "ACOPLE CODO DE T TIPO BAUER - de 4° ",
+        titulo: "ACOPLE CODO DE T TIPO BAUER - de 4 pulg ",
         imagenes: [
             "imagenesp/acopleT.png"
         ]
@@ -45,7 +45,7 @@ const productos = {
 
 
     6: {
-        titulo: "ACOPLE CODO Y TIPO BAUER - de 4°",
+        titulo: "ACOPLE CODO Y TIPO BAUER - de 4 pulg",
         imagenes: [
             "imagenesp/acopleY.png"
         ]
@@ -53,7 +53,7 @@ const productos = {
 
 
     7: {
-        titulo: "PINES DE EXPANSION - de 4°",
+        titulo: "PINES DE EXPANSION - de 4 pulg",
         imagenes: [
             "imagenesp/Pexpansion.png"
         ]
@@ -61,7 +61,7 @@ const productos = {
 
 
     8: {
-        titulo: "PICAS REVESTIDA OVERLAY - de 4°",
+        titulo: "PICAS REVESTIDA OVERLAY - de 4 pulg",
         imagenes: [
             "imagenesp/picas.png"
         ]
@@ -69,7 +69,7 @@ const productos = {
 
 
     9: {
-        titulo: "TACOS INTERCAMBIABLES - de 4°",
+        titulo: "TACOS INTERCAMBIABLES - de 4 pulg",
         imagenes: [
             "imagenesp/tacosint.png"
         ]
@@ -77,7 +77,7 @@ const productos = {
 
 
     10: {
-        titulo: "PORTA PICAS - de 4°",
+        titulo: "PORTA PICAS - de 4 pulg",
         imagenes: [
             "imagenesp/portapicas.png"
         ]
@@ -85,7 +85,7 @@ const productos = {
 
 
     11: {
-        titulo: "BASE DE TACOS INTERCAMBIABLES - de 4°",
+        titulo: "BASE DE TACOS INTERCAMBIABLES - de 4 pulg",
         imagenes: [
             "imagenesp/basetacos.png"
         ]
@@ -93,7 +93,7 @@ const productos = {
 
 
     12: {
-        titulo: "ROLET BIG - de 4°",
+        titulo: "ROLET BIG - de 4 pulg",
         imagenes: [
             "imagenesp/roletbig.png"
         ]
@@ -101,7 +101,7 @@ const productos = {
 
 
     13: {
-        titulo: "CAJA KELLY BOX - de 4°",
+        titulo: "CAJA KELLY BOX - de 4 pulg",
         imagenes: [
             "imagenesp/cajakelly.png"
         ]
@@ -109,7 +109,7 @@ const productos = {
 
 
     14: {
-        titulo: "SACA PICAS - de 4°",
+        titulo: "SACA PICAS - de 4 pulg",
         imagenes: [
             "imagenesp/sacapicas.png"
         ]
@@ -117,38 +117,38 @@ const productos = {
 
 
     15: {
-        titulo: "ACOPLAMIENTO RAPIDO - de 4°",
+        titulo: "ACOPLAMIENTO RAPIDO - de 4 pulg",
         imagenes: [
             "imagenesp/acoprap.png"
         ]
     },
     16: {
-        titulo: "PORTA PICAS (TEETH HOLDER) - de 4°",
+        titulo: "PORTA PICAS (TEETH HOLDER) - de 4 pulg",
         imagenes: [
             "imagenesp/tholder.png"
         ]
     },
 
      17: {
-        titulo: "CABEZALES DE TUBO TREMIE - de 4°",
+        titulo: "CABEZALES DE TUBO TREMIE - de 4 pulg",
         imagenes: [
             "imagenesp/tremie.png"
         ]
     },
     18: {
-        titulo: "BROCA DE DIENTES PLANOS - de 4°",
+        titulo: "BROCA DE DIENTES PLANOS - de 4 pulg",
         imagenes: [
             "imagenesp/brocad.png"
         ]
     },
         19: {
-        titulo: "VALVULA MARIPOSA - de 4°",
+        titulo: "VALVULA MARIPOSA - de 4 pulg",
         imagenes: [
             "imagenesp/genebre.png"
         ]
     },
     20: {
-        titulo: "BRIDA SLIP ON 150 LBS RF A/C - de 4°",
+        titulo: "BRIDA SLIP ON 150 LBS RF A/C - de 4 pulg",
         imagenes: [
             "imagenesp/brida.png"
         ]
