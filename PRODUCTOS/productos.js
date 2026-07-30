@@ -147,7 +147,12 @@ const productos = {
             "imagenesp/genebre.png"
         ]
     },
-
+    20: {
+        titulo: "BRIDA SLIP ON 150 LBS RF A/C",
+        imagenes: [
+            "imagenesp/brida.png"
+        ]
+    },
 
 
 };
