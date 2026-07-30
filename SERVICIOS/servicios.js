@@ -87,7 +87,7 @@ const servicios = {
   "distribuidor-aire": {
     titulo: "Fabricación de Distribuidor de aire (industrial)",
     descripcion: "Producción de distribuidores de aire de alto rendimiento para sistemas neumáticos industriales.",
-    imagenes: ["imageness/fabdistr.jpeg","imageness/fabdistr01.png"],
+    imagenes: ["imageness/fabdistr.jpeg","imageness/fabdistr001.jpeg"],
     detalles: [
       "Distribución uniforme",
       "Control de flujo",
